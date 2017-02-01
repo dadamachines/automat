@@ -13,7 +13,7 @@
                "version":"1.0.0",
                "category":"Contributed",
                "help": {"online": "https://github.com/dadamachines/automat"},
-               "url":"https://github.com/dadamachines/automat/raw/95f2d1ed00ea40759fcbf1f4e5388d05948c70bb/software/arduino/dadamachines.zip",
+               "url":"https://github.com/dadamachines/automat/raw/8bdf66035e1f4de60a99767efe43aa0bae0e17d2/software/arduino/dadamachines.zip",
                "archiveFileName":"dadamachines-1.0.0.zip",
                "size":"380754",
                "boards":[
