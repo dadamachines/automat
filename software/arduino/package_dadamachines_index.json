@@ -1,0 +1,31 @@
+{
+   "packages":[
+      {
+         "name":"dadamachines",
+         "maintainer":"dadamachines",
+         "websiteURL":"https://dadamachines.com",
+         "email":"development@dadamachines.com",
+         "help": {"online": "https://github.com/dadamachines/automat"},
+         "platforms":[
+            {
+               "name":"dadamachines hardware (dependency: Arduino SAMD Boards 1.6.9)",
+               "architecture":"samd",
+               "version":"1.0.0",
+               "category":"Contributed",
+               "help": {"online": "https://github.com/dadamachines/automat"},
+               "url":"https://github.com/sparkfun/Arduino_Boards/raw/master/IDE_Board_Manager/sparkfun-samd-1.3.2.tar.bz2",
+               "archiveFileName":"sparkfun-samd-1.3.2.tar.bz2",
+               "size":"206253",
+               "boards":[
+                  {
+                     "name":"Eitech Robotics"
+                  }
+               ]
+            }
+         ],
+         "tools":[
+
+         ]
+      }
+   ]
+}
