@@ -1,0 +1,3 @@
+[submodule "software/arduino/hardware/dadamachines/samd/libraries/automat-software"]
+	path = software/arduino/hardware/dadamachines/samd/libraries/automat-software
+	url = https://github.com/dadamachines/automat-software.git
