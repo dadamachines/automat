@@ -51,6 +51,21 @@
         "boards": [{
           "name": "dadamachines automat"
         }]
+      },
+      {
+        "name": "dadamachines hardware (dependency: Arduino SAMD Boards 1.6.9)",
+        "architecture": "samd",
+        "version": "1.0.3",
+        "category": "Contributed",
+        "help": {
+          "online": "https://github.com/dadamachines/automat"
+        },
+        "url": "https://dadamachines.com/download/dadamachines.zip",
+        "archiveFileName": "dadamachines-1.0.3.zip",
+        "size": "380755",
+        "boards": [{
+          "name": "dadamachines automat"
+        }]
       }
     ],
     "tools": [

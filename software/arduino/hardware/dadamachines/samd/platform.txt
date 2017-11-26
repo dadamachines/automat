@@ -20,7 +20,11 @@
 # https://github.com/arduino/Arduino/wiki/Arduino-IDE-1.5---3rd-party-Hardware-specification
 
 name=dadamachines hardware (dependency: Arduino SAMD Boards 1.6.9)
-version=1.0.2
+version=1.0.3
+
+# USB Flags
+# ---------
+build.usb_flags=-DUSB_VID={build.vid} -DUSB_PID={build.pid} -DUSBCON -DUSB_POWER={build.usb_power} '-DUSB_MANUFACTURER={build.usb_manufacturer}' '-DUSB_PRODUCT={build.usb_product}'
 
 # BOSSA
 
