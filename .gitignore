@@ -34,6 +34,3 @@ eagle.epf
 *.info
 
 *.eps
-
-# Local Dev Files
-package_dadamachines_index_local.json
