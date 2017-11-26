@@ -62,7 +62,6 @@
         },
         "url": "https://github.com/dadamachines/automat/blob/ef0daea2f67ca7ae081a8f718de148436241bd52/software/arduino/dadamachines.zip",
         "archiveFileName": "dadamachines-1.0.3.zip",
-        "size": "53923",
         "boards": [{
           "name": "dadamachines automat"
         }]
