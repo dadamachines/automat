@@ -13,7 +13,7 @@ https://github.com/dadamachines/automat/raw/master/software/arduino/package_dada
 
 3. Restart the Arduino IDE
 
-4. Select the dadamachines - automat Board (*Tools->Board(s)->dadamachines hardware->dadamachines automat*)
+4. Select the **dadamachines automat** (*Tools->Board(s)->dadamachines hardware->dadamachines automat*)
 
 5. Find the official software and examples for the dadamachines automat (*File->Examples->Examples for dadamachines automat*)
 
