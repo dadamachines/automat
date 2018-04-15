@@ -1,7 +1,8 @@
 # automat
 
-* This is the home of the software and hardware for the [dadamachines - automat](https://dadamachines.com/product/automat-controller/), an awesome controller for musicmachines.
-* If you want to develop your own software install the [dadamachines - automat - Arduino Board Support Package](https://github.com/dadamachines/automat/tree/master/software/arduino)
+This is the **github** home for the [dadamachines - automat](https://dadamachines.com/product/automat-controller/), an awesome controller for musicmachines.
+
+If you want to develop your own software install the [dadamachines - automat - Arduino Board Support Package](https://github.com/dadamachines/automat/tree/master/software/arduino)
   
 ## Contact
 
