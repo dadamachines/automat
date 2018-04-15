@@ -1,3 +1,6 @@
+# Ignore UF2 Converstion Tool
+uf2conv.py
+
 # Ignore list for Eagle, a PCB layout tool
 
 # Backup files
