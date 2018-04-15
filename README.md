@@ -2,7 +2,7 @@
 
 This is the **github** home for the [dadamachines - automat](https://dadamachines.com/product/automat-controller/), an awesome controller for musicmachines.
 
-## How update the software
+## How to update the software?
 
 [Follow this tutorial](https://dadamachines.com/getstarted/automat-software-update-process/).
 
