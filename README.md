@@ -24,6 +24,6 @@ All changes for the automat board are maintained by @awatterott in this reposito
 
 ## Contact
 
-To report a bug, contribute, discuss on usage, or simply request support, please [create an issue here](https://github.com/dadamachines/automat-software/issues/new).
+To report a bug, contribute, discuss on usage, or simply request support, please [create an issue here](https://github.com/dadamachines/automat/issues/new).
 
 You can also get informations about bug fixes and updates on our twitter account: [@dadamachines](https://twitter.com/dadamachines).
