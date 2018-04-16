@@ -14,7 +14,14 @@ This is the **github** home for the [dadamachines - automat](https://dadamachine
 ## Write your own custom software / firmware
 
 If you want to develop your own software / firmware install the [dadamachines - automat - Arduino Board Support Package](https://github.com/dadamachines/automat/tree/master/software/arduino)
-  
+
+
+
+## Bootloader
+
+The automat uses the [UF2 Bootloader](https://github.com/Microsoft/uf2-samd21). This allows bootloader and firmware updates via USB Mass Storage Device mode. 
+All changes for the automat board are maintained by @awatterott in this repository: [https://github.com/awatterott/uf2-samd21](https://github.com/awatterott/uf2-samd21) 
+
 ## Contact
 
 To report a bug, contribute, discuss on usage, or simply request support, please [create an issue here](https://github.com/dadamachines/automat-software/issues/new).
