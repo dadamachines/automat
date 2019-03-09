@@ -1,6 +1,3 @@
-[submodule "software/arduino/hardware/dadamachines/samd/libraries/automat-software"]
-	path = software/arduino/hardware/dadmachines-automat/samd/libraries/automat-software
-	url = https://github.com/dadamachines/automat-software.git
 [submodule "software/arduino/hardware/dadamachines/samd/libraries/OneButton"]
 	path = software/arduino/hardware/dadmachines-automat/samd/libraries/OneButton
 	url = https://github.com/mathertel/OneButton.git
