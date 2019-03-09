@@ -1,15 +1,15 @@
 [submodule "software/arduino/hardware/dadamachines/samd/libraries/automat-software"]
-	path = software/arduino/hardware/dadamachines/samd/libraries/automat-software
+	path = software/arduino/hardware/dadmachines-automat/samd/libraries/automat-software
 	url = https://github.com/dadamachines/automat-software.git
 [submodule "software/arduino/hardware/dadamachines/samd/libraries/OneButton"]
-	path = software/arduino/hardware/dadamachines/samd/libraries/OneButton
+	path = software/arduino/hardware/dadmachines-automat/samd/libraries/OneButton
 	url = https://github.com/mathertel/OneButton.git
 [submodule "software/arduino/hardware/dadamachines/samd/libraries/MIDIUSB"]
-	path = software/arduino/hardware/dadamachines/samd/libraries/MIDIUSB
+	path = software/arduino/hardware/dadmachines-automat/samd/libraries/MIDIUSB
 	url = https://github.com/arduino-libraries/MIDIUSB.git
 [submodule "software/arduino/hardware/dadamachines/samd/libraries/MIDI"]
-	path = software/arduino/hardware/dadamachines/samd/libraries/MIDI
+	path = software/arduino/hardware/dadmachines-automat/samd/libraries/MIDI
 	url = https://github.com/FortySevenEffects/arduino_midi_library.git
 [submodule "software/arduino/hardware/dadamachines/samd/libraries/FlashStorage"]
-	path = software/arduino/hardware/dadamachines/samd/libraries/FlashStorage
+	path = software/arduino/hardware/dadmachines-automat/samd/libraries/FlashStorage
 	url = https://github.com/cmaglie/FlashStorage.git

@@ -15,6 +15,7 @@
 # Foundation, Inc., 51 Franklin St, Fifth Floor, Boston, MA  02110-1301  USA
 
 # dadamachines automat
+# ------------------------------
 automat.name=dadamachines automat
 automat.vid.0=0x16D0
 automat.pid.0=0x0CDA
