@@ -10,3 +10,6 @@
 [submodule "software/arduino/hardware/dadamachines/samd/libraries/FlashStorage"]
 	path = software/arduino/hardware/dadmachines-automat/samd/libraries/FlashStorage
 	url = https://github.com/cmaglie/FlashStorage.git
+[submodule "software/arduino/hardware/dadmachines-automat/samd/libraries/automat-software"]
+	path = software/arduino/hardware/dadmachines-automat/samd/libraries/automat-software
+	url = git@github.com:dadamachines/automat-software.git
