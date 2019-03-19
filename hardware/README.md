@@ -1,3 +1,3 @@
 # dadamachines - automat
 
-hardware files will follow after kickstarter campaign
+This is the production version schematic of the automat. 
